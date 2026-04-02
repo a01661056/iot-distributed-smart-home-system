@@ -53,7 +53,7 @@ This architecture demonstrates integration across embedded systems, messaging in
 
 ## Demo & Documentation
 
-- 🎥 Demo Video: https://youtu.be/fEgXwqgo7SM  
+- Demo Video: https://youtu.be/fEgXwqgo7SM  
 
 ---
 

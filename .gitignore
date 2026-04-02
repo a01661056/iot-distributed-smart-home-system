@@ -1,0 +1,17 @@
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+
+# Local environment files
+.env
+.env.*
+
+# Large local media not suitable for standard GitHub pushes
+*.MOV
